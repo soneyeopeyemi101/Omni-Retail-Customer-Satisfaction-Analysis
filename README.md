@@ -146,6 +146,8 @@ The analysis combines **satisfaction, loyalty, demographics, purchase behavior, 
 
 It also demonstrates practical experience with **Power BI, DAX, data visualization, customer segmentation, analytical thinking, and data storytelling**.
 
+[⬇️ Click here to Download the Omni Retail Customer Dataset](https://github.com/soneyeopeyemi101/Omni-Retail-Customer-Satisfaction-Analysis/edit/main/Customer%20Satisfaction.xlsx)
+
 ---
 
 ## 👤 About Me
