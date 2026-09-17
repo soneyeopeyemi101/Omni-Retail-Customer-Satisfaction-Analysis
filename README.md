@@ -41,6 +41,7 @@ The analysis uses a customer-level dataset stored in **`Table1`**.
 | `Location`             | Geographic analysis                   |
 | `Latitude / Longitude` | Map visualization                     |
 
+![Omni Customer Satisfaction Dataset](OmnicustDataset.png)
 ---
 
 ## DAX & KPI Development
@@ -75,6 +76,7 @@ The first page focuses on overall customer satisfaction and its key drivers.
 * **Purchase History:** Compares satisfaction across purchasing behaviors.
 * **Support Impact:** Examines satisfaction in relation to support interaction.
 
+![Dashboard Page 1](Omnicustdashboard1.png)
 ---
 
 ## Dashboard 2 — Customer Loyalty Analysis
@@ -88,6 +90,7 @@ The second page focuses on customer loyalty and its relationship with satisfacti
 * **Satisfaction Factor by Loyalty:** Examines satisfaction factors across loyalty categories.
 * **Support by Loyalty Level:** Analyzes support interaction across loyalty groups.
 
+![Dashboard Page 2](Omnicustdashboard2.png)
 
 ## Dashboard 3 — Geographic Analysis
 
@@ -98,6 +101,8 @@ The third page explores geographic patterns in customer satisfaction and loyalty
 * **Loyalty by Location:** Uses a treemap to visualize loyalty distribution by location.
 * **Satisfaction by Location:** Uses geographic coordinates to visualize satisfaction across locations.
 * **Customer Segmentation:** Demographic filters allow geographic patterns to be explored by specific customer groups.
+
+![Dashboard Page 3](Omnicustdashboard3.png)
 ---
 
 ## Business Applications
@@ -130,22 +135,6 @@ The analysis can support:
 
 ### Data Storytelling
 Presented customer information through a logical flow of **KPIs, satisfaction, loyalty, and geographic analysis** to make the data easier to explore and interpret.
-
----
-
-## Dashboard Preview
-
-### Dashboard 1 — Satisfaction Analysis
-
-*Add Dashboard 1 screenshot here.*
-
-### Dashboard 2 — Loyalty Analysis
-
-*Add Dashboard 2 screenshot here.*
-
-### Dashboard 3 — Geographic Analysis
-
-*Add Dashboard 3 screenshot here.*
 
 ---
 
